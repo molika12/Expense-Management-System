@@ -281,10 +281,6 @@ mvn spring-boot:run
 
 Or run the main Spring Boot application class from your IDE.
 
-The application runs on:
-http://localhost:8081
-
-
  Testing
 
 The REST APIs were tested using Postman.
